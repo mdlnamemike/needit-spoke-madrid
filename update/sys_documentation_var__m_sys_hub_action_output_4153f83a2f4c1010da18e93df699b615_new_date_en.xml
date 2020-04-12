@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_date" label="new_date" language="en" table="var__m_sys_hub_action_output_4153f83a2f4c1010da18e93df699b615">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_date</element>
+            <help/>
+            <hint/>
+            <label>new_date</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_4153f83a2f4c1010da18e93df699b615</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-12 19:12:27</sys_created_on>
+            <sys_id>dccbbc072fc45010da18e93df699b686</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>new_date</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_18270_needit_spo">54cf503e2f0c1010da18e93df699b6ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">54cf503e2f0c1010da18e93df699b6ac</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_4153f83a2f4c1010da18e93df699b615_new_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-12 19:12:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
